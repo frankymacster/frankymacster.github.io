@@ -75,14 +75,52 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Hackatown2020 Crackognize",
+        "description":"python",
+        "imgurl":"images/portfolio/origami.jpg",
+        "projecturl":"https://devpost.com/software/hackatown2020-crackognize"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "date": "2020-01-20",
+        "name":"learning plotly dash FigureWidget",
+        "description":"python",
+        "imgurl":"images/portfolio/origami.jpg",
+        "projecturl":"https://colab.research.google.com/github/jonmmease/plotly_ipywidget_notebooks/blob/master/notebooks/DataShaderExample.ipynb#scrollTo=4BjUPCINF83M"
+      },
+      {
+        "date": "2020-01-20",
+        "name":"learning sage SymmetricGroup",
+        "description":"python",
+        "imgurl":"images/portfolio/origami.jpg",
+        "projecturl":"https://cocalc.com/projects/1754905b-3f4a-4f67-864a-6db4043a15c3/files/Welcome%20to%20CoCalc.ipynb?session=default"
+      },
+      {
+        "date": "2020-01-20",
+        "name":"learning Google OR tools",
+        "description":"python",
+        "imgurl":"images/portfolio/origami.jpg",
+        "projecturl":"https://colab.research.google.com/drive/13fGN5LBHHezLwNgea-UOA-fBg_4vjcTf#scrollTo=-kJ8QSt6JXFq"
+      },
+      {
+        "date": "2020-01-20",
+        "name":"learning sage SymmetricGroup",
+        "description":"python",
+        "imgurl":"images/portfolio/origami.jpg",
+        "projecturl":"https://cocalc.com/0965c9a5-b498-458f-bb95-5e37af3dfeda/raw/2019-05-31-234010.ipynb"
+      },
+      {
+        "date": "2020-01-20",
+        "name":"finding Hamiltonean cycles is really hard!",
+        "description":"python",
+        "imgurl":"images/portfolio/origami.jpg",
+        "projecturl":"https://algorithm-visualizer.org/backtracking/hamiltonean-cycles"
+      },
+      {
+        "date": "2020-01-20",
+        "name":"proof without words",
+        "description":"math",
+        "imgurl":"images/portfolio/origami.jpg",
+        "projecturl":"https://www.geogebra.org/m/ZFTGX57r"
       },
     ]
   }

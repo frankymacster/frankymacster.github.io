@@ -26,8 +26,6 @@ export default function Header({ resumeData }) {
           <ul className="social">
             {resumeData.socialLinks &&
               resumeData.socialLinks.map(item => {
-                console.log(item);
-                
                 return (
                   <li key={item.name}>
                     <a href={item.url} target="_blank">
