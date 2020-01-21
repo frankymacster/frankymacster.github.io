@@ -75,6 +75,14 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "date": "2019-11-15",
+        "name":"Editable Task List made with Purescript Thermite",
+        "description":"purescript",
+        "imgurl":"images/portfolio/origami.jpg",
+        "projecturl":"http://try.purescript.org/?backend=thermite&gist=8af56e4ea81b6fb08a5cdf5f574f4f9a&session=f6e92d39-80b5-8de8-8c0a-3f3aff010d70"
+      },
+      {
+        "date": "2020-01-19",
         "name":"Hackatown2020 Crackognize",
         "description":"python",
         "imgurl":"images/portfolio/origami.jpg",
