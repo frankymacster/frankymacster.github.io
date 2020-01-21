@@ -16,8 +16,8 @@ let resumeData = {
         },
         {
           "name":"email",
-          "url":"fs.sunatori@me.com",
-          "className":"fa fa-email"
+          "url":"mailto:fs.sunatori@me.com",
+          "className":"fa fa-envelope"
         }
       ],
     "aboutme":"I am currently a Full Stack Web Developer. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
