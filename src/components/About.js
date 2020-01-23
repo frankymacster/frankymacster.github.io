@@ -14,7 +14,7 @@ export default function About({ resumeData }) {
               {resumeData.aboutme}
             </p>
 
-            <div className="row">
+            {/* <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>
                 <p className="address">
@@ -27,7 +27,7 @@ export default function About({ resumeData }) {
                   <span>{resumeData.website}</span>
                 </p>
               </div>
-            </div>
+            </div> */}
           </div>
       </div>
     </section>
