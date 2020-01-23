@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -341,19 +341,39 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  width: 80%;
+  -moz-animation: css 2s ease;
+  -webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  width: 80%;
+  -moz-animation: html5 2s ease;
+  -webkit-animation: html5 2s ease;
 }
 .jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  width: 50%;
+  -moz-animation: jquery 2s ease;
+  -webkit-animation: jquery 2s ease;
+}
+.javascript {
+  width: 90%;
+  -moz-animation: javascript 2s ease;
+  -webkit-animation: javascript 2s ease;
+}
+.reactjs {
+  width: 90%;
+  -moz-animation: reactjs 2s ease;
+  -webkit-animation: reactjs 2s ease;
+}
+.angularjs {
+  width: 70%;
+  -moz-animation: angularjs 2s ease;
+  -webkit-animation: angularjs 2s ease;
+}
+.angular {
+  width: 70%;
+  -moz-animation: angular 2s ease;
+  -webkit-animation: angular 2s ease;
 }
 
 @-moz-keyframes photoshop {
@@ -370,7 +390,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
@@ -379,6 +399,22 @@ ul#nav li.current a { color: #F06000; }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
   100% { width: 50%;  }
+}
+@-moz-keyframes javascript {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes reactjs {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-moz-keyframes angularjs {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-moz-keyframes angular {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
 }
 
 @-webkit-keyframes photoshop {
@@ -395,7 +431,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
@@ -404,6 +440,22 @@ ul#nav li.current a { color: #F06000; }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
   100% { width: 50%;  }
+}
+@-webkit-keyframes javascript {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes reactjs {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes angularjs {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes angular {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
 }
 
 /* ------------------------------------------------------------------ */

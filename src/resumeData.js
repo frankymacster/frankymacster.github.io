@@ -55,7 +55,7 @@ let resumeData = {
     // "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"JS"
+        "skillname":"Javascript"
       },
       {
         "skillname":"HTML5"
