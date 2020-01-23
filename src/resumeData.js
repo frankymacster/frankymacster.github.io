@@ -78,64 +78,29 @@ let resumeData = {
         "date": "2019-04",
         "name":"Web VR Panorama Music Player",
         "description":"javascript",
-        "imgurl":"images/portfolio/origami.jpg",
+        "imgurl":"images/vr.png",
         "projecturl":"https://stingray-hackathon-webvr.glitch.me"
       },
       {
         "date": "2019-11-15",
         "name":"Editable Task List made with Purescript Thermite",
         "description":"purescript",
-        "imgurl":"images/portfolio/origami.jpg",
+        "imgurl":"images/placeholder.jpg",
         "projecturl":"http://try.purescript.org/?backend=thermite&gist=8af56e4ea81b6fb08a5cdf5f574f4f9a&session=f6e92d39-80b5-8de8-8c0a-3f3aff010d70"
       },
       {
         "date": "2020-01-19",
         "name":"Hackatown2020 Crackognize",
         "description":"python",
-        "imgurl":"images/portfolio/origami.jpg",
+        "imgurl":"images/crackognize.jpg",
         "projecturl":"https://devpost.com/software/hackatown2020-crackognize"
       },
       {
         "date": "2020-01-20",
-        "name":"learning plotly dash FigureWidget",
+        "name":"Algorithm Visualizer: added cycle detection",
         "description":"python",
-        "imgurl":"images/portfolio/origami.jpg",
-        "projecturl":"https://colab.research.google.com/github/jonmmease/plotly_ipywidget_notebooks/blob/master/notebooks/DataShaderExample.ipynb#scrollTo=4BjUPCINF83M"
-      },
-      {
-        "date": "2020-01-20",
-        "name":"learning sage SymmetricGroup",
-        "description":"python",
-        "imgurl":"images/portfolio/origami.jpg",
-        "projecturl":"https://cocalc.com/projects/1754905b-3f4a-4f67-864a-6db4043a15c3/files/Welcome%20to%20CoCalc.ipynb?session=default"
-      },
-      {
-        "date": "2020-01-20",
-        "name":"learning Google OR tools",
-        "description":"python",
-        "imgurl":"images/portfolio/origami.jpg",
-        "projecturl":"https://colab.research.google.com/drive/13fGN5LBHHezLwNgea-UOA-fBg_4vjcTf#scrollTo=-kJ8QSt6JXFq"
-      },
-      {
-        "date": "2020-01-20",
-        "name":"learning sage SymmetricGroup",
-        "description":"python",
-        "imgurl":"images/portfolio/origami.jpg",
-        "projecturl":"https://cocalc.com/0965c9a5-b498-458f-bb95-5e37af3dfeda/raw/2019-05-31-234010.ipynb"
-      },
-      {
-        "date": "2020-01-20",
-        "name":"finding Hamiltonean cycles is really hard!",
-        "description":"python",
-        "imgurl":"images/portfolio/origami.jpg",
-        "projecturl":"https://algorithm-visualizer.org/backtracking/hamiltonean-cycles"
-      },
-      {
-        "date": "2020-01-20",
-        "name":"proof without words",
-        "description":"math",
-        "imgurl":"images/portfolio/origami.jpg",
-        "projecturl":"https://www.geogebra.org/m/ZFTGX57r"
+        "imgurl":"images/algorithm-visualizer-cycle-detection.png",
+        "projecturl":"https://algorithm-visualizer.org/simple-recursive/cycle-detection"
       },
     ]
   }
