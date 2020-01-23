@@ -75,6 +75,13 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "date": "2019-04",
+        "name":"Web VR Panorama Music Player",
+        "description":"javascript",
+        "imgurl":"images/portfolio/origami.jpg",
+        "projecturl":"https://stingray-hackathon-webvr.glitch.me"
+      },
+      {
         "date": "2019-11-15",
         "name":"Editable Task List made with Purescript Thermite",
         "description":"purescript",
