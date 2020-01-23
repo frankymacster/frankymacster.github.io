@@ -102,6 +102,13 @@ let resumeData = {
         "imgurl":"images/algorithm-visualizer-cycle-detection.png",
         "projecturl":"https://algorithm-visualizer.org/simple-recursive/cycle-detection"
       },
+      {
+        "date": "2020-01-21",
+        "name":"Recursively generated widget board",
+        "description":"javascript",
+        "imgurl":"images/placeholder.jpg",
+        "projecturl":"https://github.com/frankymacster/react-app-node--pomodoro/"
+      },
     ]
   }
   
