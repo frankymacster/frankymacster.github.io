@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://eloquent-leakey-c18c49.netlify.com/",
     "name": "François Sunatori",
     "role": "Full Stack Web Developer",
-    "roleDescription": "I like dabbling in various parts of web development and like to learn about new technologies, category theory or play guitar in my free time.",
+    "roleDescription": "I like dabbling in various parts of web development and like to learn about new technologies, category theory or play guitar in my spare time.",
     "socialLinks":[
         {
           "name":"linkedin",
